@@ -1,0 +1,5 @@
+{
+  "name": "Tanzania Green Agricultural System (TGAS)",
+  "description": "A comprehensive platform for Tanzanian farmers featuring social networking, AI advisory, and real-time weather alerts.",
+  "requestFramePermissions": ["geolocation", "camera", "microphone"]
+}
